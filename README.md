@@ -1,30 +1,49 @@
-# Todo list web app
+# ✅ WEB3 TODO – Lista de Tarefas com Conexão Web3
 
-*Automatically synced with your [v0.dev](https://v0.dev) deployments*
+Este é um aplicativo teste de lista de tarefas com design moderno e integração com carteiras digitais (Web3). Com ele, o usuário pode:
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/mathandrey1997-1967s-projects/v0-todo-list-web-app)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/LHq7ouDYW5E)
+- Conectar sua carteira Web3
+- Criar e acompanhar tarefas
+- Ver métricas em tempo real (tarefas criadas, concluídas, pendentes, etc.)
 
-## Overview
+---
 
-This repository will stay in sync with your deployed chats on [v0.dev](https://v0.dev).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
+## 🌐 Acesse o projeto online:
 
-## Deployment
+🔗 **[Clique aqui para ver o app no ar (via Vercel)](https://vercel.com/mathandrey1997-1967s-projects/v0-todo-list-web-app)**
 
-Your project is live at:
+---
 
-**[https://vercel.com/mathandrey1997-1967s-projects/v0-todo-list-web-app](https://vercel.com/mathandrey1997-1967s-projects/v0-todo-list-web-app)**
+## 💡 Como funciona
 
-## Build your app
+- Ao abrir o app, o usuário pode **conectar sua carteira digital**
+- Depois disso, é possível **adicionar tarefas** e **marcar como concluídas**
+- O sistema mostra **quantas tarefas existem**, quantas foram concluídas e quantas estão pendentes
+- Tudo com uma interface visual clara, responsiva e moderna
 
-Continue building your app on:
+---
 
-**[https://v0.dev/chat/projects/LHq7ouDYW5E](https://v0.dev/chat/projects/LHq7ouDYW5E)**
+## 🧱 Funcionalidades principais
 
-## How It Works
+- Botão “Conectar Carteira” com alerta de status
+- Cards com métricas (tarefas e valor em stake)
+- Lista de tarefas com botão “Nova Tarefa”
+- Diferenciação visual entre tarefas pendentes e concluídas
+- Feedback visual em todas as ações
+- Interface responsiva (funciona em PC e celular)
 
-1. Create and modify your project using [v0.dev](https://v0.dev)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+---
+
+## 🛠️ Construído com
+
+- [React](https://reactjs.org/)
+- [ShadCN UI](https://ui.shadcn.dev/)
+- Design baseado nas diretrizes do [v0.dev](https://v0.dev/)
+
+---
+
+## 🧪 Status
+
+Este é um projeto em desenvolvimento e serve como **MVP (protótipo funcional)**. A integração com blockchain/Web3 pode ser simulada neste estágio, mas está preparada para conexão real com carteiras como MetaMask em versões futuras.
+
+
